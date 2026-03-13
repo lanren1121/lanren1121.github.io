@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "lanren1121-github-io",
+  "name": "lanrenblog",
   "compatibility_date": "2025-09-27",
   "observability": {
     "enabled": true
